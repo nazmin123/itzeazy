@@ -21,6 +21,9 @@ extension Color {
       static let chevronForeground = Color(hex: "#7E8695")
       static let chevronBackground = Color(hex: "#F4F6FA")
       static let roadGlow = Color(hex: "#A36D52")
+    static let softAccentBackground = Color(hex: "#FFF3F4")
+    static let heroGradientTop = Color(hex: "#5B463D")
+        static let heroGradientBottom = Color(hex: "#10142A")
 
       private init(hex: String) {
           let hex = hex.trimmingCharacters(in: CharacterSet.alphanumerics.inverted)
