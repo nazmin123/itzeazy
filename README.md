@@ -54,16 +54,15 @@ The focus of this project is on **clean UI design, layout structuring, and reusa
 ## 📱 Screenshots
 
 ### Home Screen
-![Home](Screenshots/home.png)
-
-*(Add more screenshots if available)*
+![Home](screenshots/homescreen1.png)
+![Home](screenshots/homescreen2.png)
 
 ---
 
 ## 🛠 Tech Stack
 - Swift
 - SwiftUI
-- MVVM Architecture
+- MVVM & Clean Architecture
 
 ---
 
