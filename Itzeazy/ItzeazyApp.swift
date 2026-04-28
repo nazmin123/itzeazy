@@ -11,7 +11,8 @@ import SwiftUI
 struct ItzeazyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ServiceHomeScreen()
+                .tint(Color("AccentColor"))
         }
     }
 }
